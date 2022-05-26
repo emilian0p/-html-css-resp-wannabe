@@ -127,8 +127,7 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
- /* tablet */
- @media all and (max-width: 1140) {
+ @media all and (max-width: 1140px) {
     .container{
         width: 100%;
     }
